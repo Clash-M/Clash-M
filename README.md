@@ -1,9 +1,17 @@
-#Timothy Williams
+# Timothy Williams 
 
 ## Intro to Timothy!
 I am a third computer science student at Concordia University Saint Paul, I have a passion for problem solving with an interest in software development. What drives me is the need to create things that will help people/solving real problems that effect people using the abilities I have. Currently I am learning a couple of things such as C++ and Unity.
 
-
+## Skills
+- HTML & CSS
+- JavaScript
+- Python
+- Java
+- C++
+- Unity
+- Microsoft Excel, Access, Powerpoint
+- Canva
 <!--
 **Clash-M/Clash-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,9 +4,9 @@
 I am a third computer science student at Concordia University Saint Paul, I have a passion for problem solving with an interest in software development. What drives me is the need to create things that will help people/solving real problems that effect people using the abilities I have. Currently I am learning a couple of things such as C++ and Unity.
 
 ## Skills
-Languages: HTML & CSS, JavaScript, Python, Java
-Skills I am Currently Learning: C++, Unity
-Tools: Microsoft Excel, Access, Powerpoint, Canva
+- Languages: HTML & CSS, JavaScript, Python, Java
+- Skills I am Currently Learning: C++, Unity
+- Tools: Microsoft Excel, Access, Powerpoint, Canva
 
 ## Current learning goals
 

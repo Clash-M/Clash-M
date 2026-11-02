@@ -1,7 +1,6 @@
 # Timothy Williams 
 
 ## Intro to Timothy!
-
 I am a third computer science student at Concordia University Saint Paul, I have a passion for problem solving with an interest in software development. What drives me is the need to create things that will help people/solving real problems that effect people using the abilities I have. Currently I am learning a couple of things such as C++ and Unity.
 
 ## Skills
@@ -30,7 +29,7 @@ Email - timothywillams312@gmail.com
 - Love listening to Jrock music, (My favorite band is LunaSea)
 - Avid gamer, my favorite game is Destiny 2!
 
-?
+
 <!--
 **Clash-M/Clash-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
